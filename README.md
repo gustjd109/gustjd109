@@ -3,7 +3,7 @@
 ### 💬 About me
 <p>
   👋&nbsp; Hi there! GitHub 프로필 만드는중~
-</p>
+</p><br>
 
 
 ### 💪 Skills
