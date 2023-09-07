@@ -21,7 +21,8 @@
 <h3 align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px"/></h3> 
 <p>
   <a href="Gmail" target="_blank"><img src="https://img.shields.io/badge/hyunsung109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</p><br/>
+
 
 <div align=center>
   
