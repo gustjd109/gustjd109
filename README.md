@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyunsung's%20GitHub!%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
+
 ### 💬 About me
 <p>
   👋&nbsp; Hi there! GitHub 프로필 만드는중~
@@ -15,13 +16,13 @@
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-</p>
+</p><br>
 
 
-<h3 align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px"/></h3> 
+### 📞 Nice way to meet me 
 <p>
-  <a href="Gmail" target="_blank"><img src="https://img.shields.io/badge/hyunsung109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p><br/>
+  <a href="hyunsung109@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyunsung109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p><br>
 
 
 <div align=center>
