@@ -19,9 +19,9 @@
 </p><br>
 
 
-### 📞 Nice way to meet me 
+### 📞 Nice way to meet me
 <p>
-  <a href="hyunsung109@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyunsung109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:hyunsung109@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyunsung109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p><br>
 
 
