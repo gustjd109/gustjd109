@@ -7,7 +7,7 @@
   I have 2 years of windows software development based on MFC. 🧑🏻‍💻<br>
 
   I enjoy to ride a bicycle and surf. 🚴🏻 🏄🏻‍♂️<br>
-  I'm study hard to become a good developer who wants to work together, digs in to the end, and constantly grows. 🤝 🔥 🌱
+  I study hard to become a good developer who wants to work together, digs in to the end, and constantly grows. 🤝 🔥 🌱
 </p><br>
 
 
