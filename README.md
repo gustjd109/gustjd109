@@ -4,7 +4,7 @@
 ### 💬 About me
 <p>
   👋&nbsp; Hi there! I'm a backend developer who still has a lot to learn.<br>
-  I have 2 years of Windows software development based on MFC. 🧑🏻‍💻<br>
+  I have 2 years of windows software development based on MFC. 🧑🏻‍💻<br>
 
   I enjoy to ride a bicycle, surf. 🚴🏻 🏄🏻‍♂️<br>
   I study hard to become a good developer who wants to work together, digs in to the end, and constantly grows. 🤝 🔥 🌱
