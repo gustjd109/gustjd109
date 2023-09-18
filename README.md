@@ -36,11 +36,6 @@
 #### Infrastructure
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-EC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazon-Route53&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFront-E0234E?style=flat-square&logo=amazon-Cloud Front&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-E0234E?style=flat-square&logo=amazon-S3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Load%20Balancer-FF9900?style=flat-square&logo=amazon-Load%20Balancer&logoColor=white"/>
 </p>
 
 #### Tools
@@ -51,8 +46,6 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=JIRA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p><br>
 
 
